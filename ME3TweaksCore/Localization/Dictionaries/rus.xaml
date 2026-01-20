@@ -132,6 +132,7 @@
 	<system:String x:Key="string_interp_backingUpSinglePercentage">Создание архива {0} {1}%</system:String>
 	<system:String x:Key="string_errorCreatingBackup">Ошибка создания архива</system:String>
 	<system:String x:Key="string_interp_errorCreatingBackupX">Возникла ошибка архивации игры: {0}. Последним файлом в обработке был: {1}.</system:String>
+	<system:String x:Key="string_dialog_backupUnableToDetermineFreeSpace">Невозможно определить свободное место для сохранения архива: {0}</system:String>
 	<system:String x:Key="string_cannotRestoreGame">Невозможно восстановить игру</system:String>
 	<system:String x:Key="string_interp_cannotRestoreGameToGameWhileRunning">Невозможно восстановить {0} пока игра запущена</system:String>
 	<system:String x:Key="string_interp_restoringWillDeleteEverythingTitle">Восстановление {0} удалит существующую установку игры</system:String>
@@ -256,6 +257,7 @@
 	<system:String x:Key="string_interp_plotManagerSyncForX">Синхронизация PlotManager для {0}</system:String>
 	<system:String x:Key="string_interp_errorCompilingFunctionReason" xml:space="preserve">Ошибка компиляции функции {0}: {1}</system:String>
 	<system:String x:Key="string_interp_fileLibInitFailedPlotManager">Невозможно инициализировать FileLib для PlotManagerSync: {0}</system:String>
+	<system:String x:Key="string_dialog_invalidConditionalNumberSourceMod">Условный номер {0} недопусим для использования. Исходный мод: {1}</system:String>
 	<system:String x:Key="string_insufficientDiskSpace">Недостаточно места на диске</system:String>
 	<system:String x:Key="string_interp_restoringXpercent">Восстановление {0}%</system:String>
 	<system:String x:Key="string_interp_restoringX">Восстановление {0}</system:String>
